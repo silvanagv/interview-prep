@@ -17,3 +17,8 @@ Topics to be covered:
   Read: "Design Patterns" by GoF (for object orientation), "The structure and interpretation of computer programs" by Harold Abelson
 
 -Cook-Levin theorem??
+
+-List of algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms
+
+-Python for NLP
