@@ -5,6 +5,16 @@ Topics to be covered:
 -JS questions
 
 -Data structures
+  Arrays
+  Hashes
+  Linked Lists
+  Stacks
+  Queues
+  Trees
+  Binary Trees
+  Sets
+  Graphs - Optional
+  Heaps - Optional
 -Algorithms
 -Low-level system design (bootcamp grads tend to be weak on this)
 -Web system design
