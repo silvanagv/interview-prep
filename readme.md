@@ -16,10 +16,12 @@ Topics to be covered:
   Graphs - Optional
   Heaps - Optional
 -Algorithms
+  -Classes
   -Sorting
     -Merge
     -Quick
     -Bubble
+
 -Low-level system design (bootcamp grads tend to be weak on this)
 -Web system design
 
