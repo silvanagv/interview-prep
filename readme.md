@@ -21,7 +21,9 @@ Topics to be covered:
     -Merge
     -Quick
     -Bubble
-
+  -TF-IDF
+  -Tree traversal
+  -Building queues and stacks with arrays and linked lists
 -Low-level system design (bootcamp grads tend to be weak on this)
 -Web system design
 
