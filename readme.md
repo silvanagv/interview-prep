@@ -39,5 +39,8 @@ Topics to be covered:
 
 -List of algorithms
 https://en.wikipedia.org/wiki/List_of_algorithms
+  Free algorithms course from Khan Academy https://www.khanacademy.org/computing/computer-science/algorithms
+
+  -Interview questions (many languages) https://www.testdome.com/For-Developers
 
 -Python for NLP
