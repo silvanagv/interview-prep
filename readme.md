@@ -3,6 +3,7 @@ Topics to be covered:
 -CSS questions
 -HTML questions
 -JS questions
+  -Udacity course - "Understanding JS - The Weird Parts"
 
 -Data structures
   Arrays
