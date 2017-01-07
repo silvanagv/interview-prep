@@ -4,6 +4,7 @@ Topics to be covered:
 -HTML questions
 -JS questions
   -Udacity course - "Understanding JS - The Weird Parts"
+  -You don't know JavaScript (book)
 
 -Data structures
   Arrays
