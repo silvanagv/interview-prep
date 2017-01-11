@@ -46,3 +46,5 @@ https://en.wikipedia.org/wiki/List_of_algorithms
 
 -Python for NLP
 -Making a search engine?
+
+-Prevention and detection of memory leaks in Node
