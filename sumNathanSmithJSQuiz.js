@@ -1,9 +1,13 @@
 function sum(array){
-
+  var total = 0
+  for (i=0;i<arguments.length;i++){
+    total +=arguments[i]
+  }
+  return total
 }
 
 // Should equal 15
-sum(1, 2, 3, 4, 5);
+console.log(sum(1, 2, 3, 4, 5));
 
 // Should equal 0
 sum(5, null, -5);
