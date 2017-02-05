@@ -14,7 +14,18 @@
 
 
 function race(v1, v2, g){
+  /*
+  g is the lead in feet.
 
+  We want the point where v1 + g = v2
+  720 mph + 70 miles = 850 mph
+
+  v1*time + g = v2*time
+  -g = v2*time-v1*time
+  g = (v2-v1)*time
+  time = (v2-v1)/g
+   
+  */
 }
 
 console.log(race(720, 850, 70))
