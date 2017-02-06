@@ -47,4 +47,8 @@ https://en.wikipedia.org/wiki/List_of_algorithms
 -Python for NLP
 -Making a search engine?
 
--Prevention and detection of memory leaks in Node
+-Prevention and detection of memory leaks in Node (complete)
+
+Immutable data structures (+Immutable.js library)
+  -why
+  -how
