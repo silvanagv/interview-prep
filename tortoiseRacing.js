@@ -24,7 +24,7 @@ function race(v1, v2, g){
   -g = v2*time-v1*time
   g = (v2-v1)*time
   time = (v2-v1)/g
-   
+  convert decimal hours to hours, minutes, and seconds 
   */
 }
 
