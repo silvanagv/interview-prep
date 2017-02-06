@@ -6,6 +6,11 @@ Topics to be covered:
   -Udacity course - "Understanding JS - The Weird Parts"
   -You don't know JavaScript (book)
 
+  -ES6
+    -Destructuring
+    -Arrow functions
+    -Var vs. let vs. const
+
 -Data structures
   Arrays
   Hashes
