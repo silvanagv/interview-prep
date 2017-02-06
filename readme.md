@@ -50,6 +50,8 @@ https://en.wikipedia.org/wiki/List_of_algorithms
   -Interview questions (many languages) https://www.testdome.com/For-Developers
 
 -Python for NLP
+-Java
+-Go
 -Making a search engine?
 
 -Prevention and detection of memory leaks in Node (complete)
