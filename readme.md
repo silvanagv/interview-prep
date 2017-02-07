@@ -55,7 +55,10 @@ https://en.wikipedia.org/wiki/List_of_algorithms
 -Making a search engine?
 
 -Prevention and detection of memory leaks in Node (complete)
+  -https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/
 
 Immutable data structures (+Immutable.js library)
   -why
   -how
+  -List
+  -Map
