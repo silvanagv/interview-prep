@@ -10,6 +10,9 @@ Topics to be covered:
     -Destructuring
     -Arrow functions
     -Var vs. let vs. const
+    -Classes
+    -Map
+    -Promises
 
 -Data structures
   Arrays
