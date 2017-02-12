@@ -65,3 +65,5 @@ Immutable data structures (+Immutable.js library)
   -how
   -List
   -Map
+
+-Cracking the Coding Interview Big O stuff
