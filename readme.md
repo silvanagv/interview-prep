@@ -47,7 +47,7 @@ Topics to be covered:
   Read: "Design Patterns" by GoF (for object orientation), "The structure and interpretation of computer programs" by Harold Abelson
 
 -Cook-Levin theorem??
-
+https://web.stanford.edu/~rrwill/cs154-2015/lec14-color.pdf
 -List of algorithms
 https://en.wikipedia.org/wiki/List_of_algorithms
   Free algorithms course from Khan Academy https://www.khanacademy.org/computing/computer-science/algorithms
