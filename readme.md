@@ -35,6 +35,8 @@ Topics to be covered:
   -Tree traversal
   -Building queues and stacks with arrays and linked lists
 -Low-level system design (bootcamp grads tend to be weak on this)
+  http://www.geekinterview.com/question_details/25025
+  http://stackoverflow.com/questions/1356801/software-engineering-hld-and-lld
 -Web system design
 
 -How the internet works (TCP/IP, HTTP etc.)
