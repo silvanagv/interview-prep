@@ -3,6 +3,16 @@
 //You need to return the nth triangular number. You should return 0 for out of range values:
 
 function triangular( n ) {
+var sum = 0
+  if (n > 0) {
+    for (let i = 1; i <= n; i++){
+      sum += i
+    }
+    return sum
+  }
+  else {
+    return 0
+  }
 }
 
 triangular(0) //0
@@ -19,3 +29,5 @@ triangular(-10) //0
 
 //triangular(4) 10
 //triangular(5) 15
+
+console.log(triangular(3))
