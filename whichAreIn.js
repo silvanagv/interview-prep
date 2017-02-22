@@ -4,3 +4,13 @@
 // 4. Check for duplicates
 // 5. If no matches, return empty array
 // Edge cases?
+
+function inArray(array1,array2){
+  //...
+}
+
+a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
+
+a1 = ["xyz", "live", "strong"] // ["live", "strong"]
+
+a1 = ["tarp", "mice", "bull"] // []
