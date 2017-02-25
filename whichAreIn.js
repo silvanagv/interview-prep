@@ -6,7 +6,19 @@
 // Edge cases?
 
 function inArray(array1,array2){
-  //...
+
+
+  var bigArray = array2
+  var littleArray = array1
+  var matchingArray = []
+
+  //1. need nested loop
+
+  for (let i = 0; i < bigArray.length; i++ ){
+    for (let j = 0; j < littleArray.length; j++){
+      
+    }
+  }
 }
 
 a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
