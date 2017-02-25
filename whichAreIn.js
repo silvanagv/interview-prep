@@ -22,17 +22,23 @@ function inArray(array1,array2){
     }
   }
 
-var nonDupeArray =  
+var nonDupeArray = []
   //3. Sort the new array alphabetically
-  for (let k = 0; k < matchingArray.length; k++){
-    for (let l = 0; l < matchingArray.length; l++){
-      if (){
 
+
+  //4. Check for duplicates
+
+  for (let k = 0; k < matchingArray.length-1; k++){
+    for (let l = 1; l < matchingArray.length; l++){
+      if (matchingArray[k] === matchingArray[l]){
+        //remove item from array
+        matchingArray.splice(k, 1)
+        k = 0
+        l = 1
+        console.log("It's a match!")
       }
     }
   }
-
-  //4. Check for duplicates
 
   return matchingArray
 }
