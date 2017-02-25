@@ -16,14 +16,33 @@ function inArray(array1,array2){
 
   for (let i = 0; i < bigArray.length; i++ ){
     for (let j = 0; j < littleArray.length; j++){
-      
+      if (bigArray[i].includes(littleArray[j])){
+        matchingArray.push(littleArray[j])
+      }
     }
   }
+
+var nonDupeArray =  
+  //3. Sort the new array alphabetically
+  for (let k = 0; k < matchingArray.length; k++){
+    for (let l = 0; l < matchingArray.length; l++){
+      if (){
+
+      }
+    }
+  }
+
+  //4. Check for duplicates
+
+  return matchingArray
 }
 
 a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
 
 a1 = ["live", "strong"]
-a1 = ["xyz", "live", "strong"] // ["live", "strong"]
 
-a1 = ["tarp", "mice", "bull"] // []
+console.log(inArray(a1,a2))
+
+// a1 = ["xyz", "live", "strong"] // ["live", "strong"]
+//
+// a1 = ["tarp", "mice", "bull"] // []
