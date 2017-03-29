@@ -10,10 +10,11 @@ function palindrome(s){
     //   return false
     // }
 
-    if (s==s.split("").reverse()){
-      return true
-    }
-    else {return false}
+    // if (s==s.split("").reverse().join("")){
+    //   return true
+    // }
+    // else {return false}
+    return s==s.split().reverse().join("") ? true:false;
 }
 
-console.log(palindrome("bg"))
+console.log(palindrome("otto"))
